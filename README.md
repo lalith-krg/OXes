@@ -2,7 +2,7 @@
 
 OXes is an implementation of the classic Tic-Tac-Toe game played by 2 players. This uses socket programming in the server-client model.
 
-To run this, first open the folder and in a new terminal and run
+To run this, first open the folder and in a new terminal run
 
 ```
 python server.py <port number>
